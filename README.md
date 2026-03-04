@@ -12,13 +12,13 @@ Required system tool: tcpdump for packet capture
 
 **Execution**
 
--The script is executed with elevated privileges to allow packet capture
+- The script is executed with elevated privileges to allow packet capture
 
--Network traffic is captured from the system interface (eth0)
+- Network traffic is captured from the system interface (eth0)
 
--Captured packets are stored in .pcap format
+- Captured packets are stored in .pcap format
 
--The data is then processed and analyzed using Python libraries
+- The data is then processed and analyzed using Python libraries
 
 **Output**
 
@@ -26,21 +26,21 @@ The program generates the following inside the outputs/ directory:
 
 - Packet capture file (.pcap)
 
--Traffic summary (.csv)
+- Traffic summary (.csv)
 
 Visualizations:
 
--Protocol usage
+- Protocol usage
+ 
+- Top IP addresses
 
--Top IP addresses
+- Top ports
 
--Top ports
+- Packet size distribution
 
--Packet size distribution
+- Packets over time
 
--Packets over time
-
--Final PDF report combining all analysis
+- Final PDF report combining all analysis
 
 Description
 
