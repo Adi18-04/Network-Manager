@@ -45,3 +45,5 @@ The program generates the following inside the outputs/ directory:
 **Description**
 
 This project demonstrates how network traffic can be intercepted, analyzed, and documented to simulate a cyber forensics investigation. It provides insight into packet-level activity and basic traffic patterns within a system.
+
+**© Aaditya Singh Jamwal**
